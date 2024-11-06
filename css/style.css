@@ -5,3 +5,38 @@ body {
 .navbar-brand img{
     width: 240px;
 }
+
+footer {
+    background-color: #4F4F4F;
+    color: #FFF;
+    margin-top: 30px;
+}
+
+footer ul li {
+    list-style: none;
+    font-size: 20px;
+}
+
+footer ul li a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.categorias div {
+    text-align: center;
+}
+
+.chat {
+    position: fixed;
+    bottom: 30px;
+    background-color: green;
+    width: 165px;
+    padding: 5px;
+    right: 20px;
+    border-radius: 10px;
+}
+
+.chat a {
+    color: #FFF;
+    text-decoration: none;
+}
